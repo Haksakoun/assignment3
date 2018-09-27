@@ -1,0 +1,70 @@
+* {
+    margin:0px;
+    padding:0 px;
+    box-sizing: border-box;
+}
+
+html {
+    font-size:16px;
+    font-family:Arial;
+    margin:1rem;
+    
+}
+
+nav ul li {
+    display: inline;
+    padding-left:2rem;
+}
+
+a {
+    color: #ffffff;
+    font-size:2rem;
+}
+
+.temp {
+    text-decoration:none;
+}
+
+nav {
+    background-color: #4fa9ff;
+    height:75px;
+    border-bottom:25px solid #0d033f;
+}
+
+.masthead {
+    height:300px;
+    background: url(/img/topgun.jpg) repeat;
+    
+}
+
+.fname {
+    font-size:3.5rem;
+    color: black;
+    padding:3rem;
+    font-weight:600;
+    text-shadow:1px 1px hsl(200,100%,100%);
+}
+
+.uname {
+    font-size: 3rem;
+    color: hsl(190,80%,80%);
+    font-weight: 600;
+    padding-left: 3rem;
+}
+
+main p {
+ 
+    margin: 30px;
+    font-size: 1.25rem;
+    line-height: 30px;
+}
+
+h1 {
+    margin: 30px;
+    color: hsl(200,45%,45%);
+
+}
+
+h2  {
+    margin: 30px;
+    color: hsl(200,45%,45%);
